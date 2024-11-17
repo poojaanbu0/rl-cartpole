@@ -39,7 +39,7 @@ ii) 1: Push cart to the right
 NAME: POOJA A
 REGISTER NUMBER:212222240072
 ```
-```
+```python
 def mc_control (env,n_bins=g_bins, gamma = 1.0,
                 init_alpha = 0.5,min_alpha = 0.01, alpha_decay_ratio = 0.5,
                 init_epsilon = 1.0, min_epsilon = 0.1, epsilon_decay_ratio = 0.9,
